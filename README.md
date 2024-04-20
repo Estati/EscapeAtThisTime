@@ -1,5 +1,4 @@
-# YourModName
-
+# EscapeAtThisTime
 ever got tired of the pesky ass f1? well now you can open sl_mainmenu with escape!, thats about it.
 
 ## Features
